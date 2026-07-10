@@ -2,15 +2,15 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23e05a00.svg?style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## 📋 Table of Contents
-- [Project Overview](#🎯-project-overview)
-- [What This Project Does](#🚀-what-this-project-does)
-- [Key Innovation](#🔬-key-innovation)
-- [Performance Highlights](#📊-performance-highlights)
-- [Architecture](#🏗️-architecture)
-- [Methodology & Technical Details](#⚙️-methodology--technical-details)
-- [Project Structure](#📂-project-structure)
-- [Tech Stack](#🧱-tech-stack)
-- [Quick Start](#💻-quick-start)
+- [Project Overview](#-project-overview)
+- [What This Project Does](#-what-this-project-does)
+- [Key Innovation](#-key-innovation)
+- [Performance Highlights](#-performance-highlights)
+- [Architecture](#-architecture)
+- [Methodology & Technical Details](#-methodology--technical-details)
+- [Project Structure](#-project-structure)
+- [Tech Stack](#-tech-stack)
+- [Quick Start](#-quick-start)
 
 ---
 
