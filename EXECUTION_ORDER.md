@@ -84,3 +84,5 @@ linear_diffusion_complete
 ```
 
 The code will execute all sections in the correct order automatically.
+
+---
